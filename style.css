@@ -831,19 +831,19 @@ button {
 }
 
 .bk1 {
-    background-image: url(/assets/asset\ 46.jpeg);
+    background-image: url(./assets/asset\ 46.jpeg);
 }
 
 .bk2 {
-    background-image: url(/assets/asset\ 47.jpeg);
+    background-image: url(./assets/asset\ 47.jpeg);
 }
 
 .bk3 {
-    background-image: url(/assets/asset\ 48.jpeg);
+    background-image: url(./assets/asset\ 48.jpeg);
 }
 
 .bk4 {
-    background-image: url(/assets/asset\ 49.jpeg);
+    background-image: url(./assets/asset\ 49.jpeg);
 }
 
 .books h3 {
@@ -897,19 +897,19 @@ button {
 }
 
 .book-1 {
-    background-image: url(/assets/asset\ 32.jpeg);
+    background-image: url(./assets/asset\ 32.jpeg);
 }
 
 .book-2 {
-    background-image: url(/assets/asset\ 48.jpeg);
+    background-image: url(./assets/asset\ 48.jpeg);
 }
 
 .book-3 {
-    background-image: url(/assets/asset\ 49.jpeg);
+    background-image: url(./assets/asset\ 49.jpeg);
 }
 
 .book-4 {
-    background-image: url(/assets/asset\ 47.jpeg);
+    background-image: url(./assets/asset\ 47.jpeg);
 }
 
 .book-5 {
@@ -917,15 +917,15 @@ button {
 }
 
 .book-4 {
-    background-image: url(/assets/asset\ 47.jpeg);
+    background-image: url(./assets/asset\ 47.jpeg);
 }
 
 .book-4 {
-    background-image: url(/assets/asset\ 47.jpeg);
+    background-image: url(./assets/asset\ 47.jpeg);
 }
 
 .book-4 {
-    background-image: url(/assets/asset\ 47.jpeg);
+    background-image: url(./assets/asset\ 47.jpeg);
 }
 
 .books-scroll-1 .books h3 {
@@ -1062,35 +1062,35 @@ button {
 }
 
 .book-11 {
-    background-image: url(/assets/asset\ 32.jpeg);
+    background-image: url(./assets/asset\ 32.jpeg);
 }
 
 .book-21 {
-    background-image: url(/assets/asset\ 48.jpeg);
+    background-image: url(./assets/asset\ 48.jpeg);
 }
 
 .book-3 {
-    background-image: url(/assets/asset\ 49.jpeg);
+    background-image: url(./assets/asset\ 49.jpeg);
 }
 
 .book-4 {
-    background-image: url(/assets/asset\ 47.jpeg);
+    background-image: url(./assets/asset\ 47.jpeg);
 }
 
 .book-5 {
-    background-image: url(/assets/asset\ 46.jpeg);
+    background-image: url(./assets/asset\ 46.jpeg);
 }
 
 .book-4 {
-    background-image: url(/assets/asset\ 47.jpeg);
+    background-image: url(./assets/asset\ 47.jpeg);
 }
 
 .book-4 {
-    background-image: url(/assets/asset\ 47.jpeg);
+    background-image: url(./assets/asset\ 47.jpeg);
 }
 
 .book-4 {
-    background-image: url(/assets/asset\ 47.jpeg);
+    background-image: url(./assets/asset\ 47.jpeg);
 }
 
 .books .book-desc {
@@ -1241,7 +1241,7 @@ button {
 .left-div-img {
     height: 100px;
     width: 300px;
-    background-image: url(/assets/asset\ 50.2.png);
+    background-image: url(./assets/asset\ 50.2.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -1264,7 +1264,7 @@ button {
     max-width: 1200px;
     height: 100%;
     margin-inline: auto;
-    background-image: url(/assets/asset\ 89.jpeg);
+    background-image: url(./assets/asset\ 89.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -1282,7 +1282,7 @@ footer {
     height: fit-content;
     padding-block: 30px;
     background-color: #7b6bc1;
-    background-image: url(/assets/asset\ 99.png);
+    background-image: url(./assets/asset\ 99.png);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1509,19 +1509,19 @@ footer {
 }
 
 .i1 {
-    background-image: url(/assets/asset\ 81.png);
+    background-image: url(./assets/asset\ 81.png);
 }
 
 .i2 {
-    background-image: url(/assets/asset\ 82.png);
+    background-image: url(./assets/asset\ 82.png);
 }
 
 .i3 {
-    background-image: url(/assets/asset\ 83.png);
+    background-image: url(./assets/asset\ 83.png);
 }
 
 .i4 {
-    background-image: url(/assets/asset\ 84.png);
+    background-image: url(./assets/asset\ 84.png);
 }
 
 .box-hover-1:hover .icon {
