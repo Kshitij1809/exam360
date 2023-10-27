@@ -1,4 +1,7 @@
 @media screen and (max-width:1040px) {
+    body{
+        overflow:hidden;
+    }
 
     .nav-right .div {
         gap: 10px;
