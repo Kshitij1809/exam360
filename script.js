@@ -4,19 +4,70 @@ document.querySelector("#cancel").addEventListener("click", () => {
 })
 document.querySelector("#head-1").addEventListener("click", () => {
     // document.getElementById("nav-top").style.backgroundColor = "violet";
-    if(document.querySelectorAll(".head").style.display == "none"){
-        document.querySelectorAll(".head").style.display = "block"
+    if(document.querySelector("#head1").style.display == "none"){
+
+      document.querySelector("#head1").style.display = "block";
     }
     else{
-        document.querySelectorAll(".head").style.display = "none"
+      document.querySelector("#head1").style.display = "none";
     }
-    if(document.querySelectorAll(".line").style.display == "none"){
-        document.querySelectorAll(".line").style.display = "block";
+    if(document.querySelector("#head2").style.display == "none"){
+
+      document.querySelector("#head2").style.display = "block";
     }
     else{
-        document.querySelectorAll(".line").style.display = "none";
+      document.querySelector("#head2").style.display = "none";
     }
-        
+    if(document.querySelector("#head3").style.display == "none"){
+
+      document.querySelector("#head3").style.display = "block";
+    }
+    else{
+      document.querySelector("#head3").style.display = "none";
+    }
+    if(document.querySelector("#head4").style.display == "none"){
+
+      document.querySelector("#head4").style.display = "block";
+    }
+    else{
+      document.querySelector("#head4").style.display = "none";
+    }
+    if(document.querySelector("#head5").style.display == "none"){
+
+      document.querySelector("#head5").style.display = "block";
+    }
+    else{
+      document.querySelector("#head5").style.display = "none";
+    }
+    if(document.querySelector("#head6").style.display == "none"){
+
+      document.querySelector("#head6").style.display = "block";
+    }
+    else{
+      document.querySelector("#head6").style.display = "none";
+    }
+    if(document.querySelector("#head7").style.display == "none"){
+
+      document.querySelector("#head7").style.display = "block";
+    }
+    else{
+      document.querySelector("#head7").style.display = "none";
+    }
+    if(document.querySelector("#head8").style.display == "none"){
+
+      document.querySelector("#head8").style.display = "block";
+    }
+    else{
+      document.querySelector("#head8").style.display = "none";
+    }
+    if(document.querySelector("#head9").style.display == "none"){
+
+      document.querySelector("#head9").style.display = "block";
+    }
+    else{
+      document.querySelector("#head9").style.display = "none";
+    }
+    
 })
 
 
