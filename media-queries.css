@@ -397,8 +397,15 @@
         cursor: pointer;
     }
 
-    .deal .line,
     .deal .head {
+        display: none;
+        height: fit-content;
+        width: 90%;
+        padding-block: 10px;
+        margin-bottom: 1px solid rgba(238, 238, 238);
+    }
+
+    .deal .line{
         display: none;
     }
 
