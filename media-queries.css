@@ -1,6 +1,6 @@
 @media screen and (max-width:1040px) {
-    nav{
-        overflow:hidden;
+    nav .nav-updates{
+        overflow-x:hidden;
     }
 
     .nav-right .div {
