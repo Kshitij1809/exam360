@@ -1,0 +1,533 @@
+@media screen and (max-width:1040px) {
+
+    .nav-right .div {
+        gap: 10px;
+    }
+
+    .search,
+    #hide {
+        display: none;
+    }
+
+    .show-icon {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 15px;
+    }
+
+    #show {
+        display: block;
+        color: white;
+    }
+
+    .deal,
+    .left-div-1,
+    .left-con,
+    .left-div-img {
+        width: 250px;
+    }
+
+
+    /* #right-div {
+        width: 650px;
+    } */
+
+
+    /* .copy {
+        flex-wrap: wrap;
+    } */
+}
+
+@media screen and (max-width:980px) {
+    .nav-right .div-1 p {
+        display: none;
+    }
+
+    .deal,
+    .left-div-1,
+    .left-con,
+    .left-div-img {
+        width: 230px;
+    }
+
+    .deal .head a,
+    .deal .head-1 a {
+        font-size: 12px;
+    }
+
+    main .s1,
+    .s2 .con {
+        justify-content: center;
+    }
+
+    .right-con,
+    .left-con {
+        gap: 15px;
+    }
+
+    .left-div-1 .d1 h3,
+    .right-div-1 .d1 h3 {
+        font-size: 14px;
+    }
+
+    .left-div-1 .d1 a,
+    .right-div-1 .d1 a {
+        font-size: 10px;
+    }
+
+    .books h3,
+    .books-scroll-1 .books h3 {
+        font-size: 12px;
+    }
+
+    .books span h2,
+    .books-scroll-1 .books span h2,
+    .link-top,
+    .card .card-head h4 {
+        font-size: 16px;
+    }
+
+    .books span h4,
+    .books-scroll-1 .books span h4 {
+        font-size: 14px;
+    }
+
+    .books span h5,
+    .books-scroll-1 .books span h5,
+    .nav-top .download-app .text h2,
+    .nav-left .text span {
+        font-size: 15px;
+    }
+
+    .foot-1-top pre p {
+        font-size: 32px;
+    }
+
+    .about span,
+    .nav-left-1 .text,
+    .img-text p,
+    .nav-left .text h5,
+    .foot-info .col-1 p {
+        font-size: 12px;
+    }
+
+    .card .card-desc,
+    .nav-top .download-app .text p,
+    .nav-top .desc-cancel,
+    .nav-top-2 .cont .nav-right,
+    .categories a,
+    .box-hover a,
+    .cat .conn .col h3,
+    .nav-updates a,
+    .foot-info .col-1 h2 {
+        font-size: 13px;
+    }
+
+    .site-desc,
+    .about ul li a,
+    .address,
+    .con-2 .copyright span {
+        font-size: 11px;
+    }
+
+    .social-media img {
+        width: 25px;
+    }
+
+    .payment img {
+        width: 150px;
+    }
+
+    .foot-4 {
+        padding-top: 30px;
+    }
+
+    .exam360,
+    .about {
+        margin-bottom: 30px;
+    }
+}
+
+@media screen and (max-width:940px) {
+
+    .nav-top {
+        display: none;
+    }
+
+    #hidden {
+        display: none;
+    }
+
+    #right-div,
+    #right-div ul li img {
+        width: 650px;
+    }
+
+    .s2 .con {
+        justify-content: center;
+    }
+
+    .right-div-1 {
+        width: 650px;
+    }
+
+    .books-scroll-1,
+    .books-scroll-1 .books {
+        gap: 15px;
+    }
+
+    .books-scroll .books .book-img,
+    .books-scroll-1 .books .book-img {
+        height: 210px;
+        width: 160px;
+    }
+
+    .books span,
+    .books h3 {
+        width: 160px;
+    }
+
+    .div-right-con-img {
+        width: 650px;
+    }
+
+    .books-scroll-2 .books {
+        margin-left: 17px;
+    }
+
+    .books-scroll-2 .books {
+        gap: 0px;
+    }
+
+    .books-scroll-2 .books h3,
+    .books .book-desc {
+        width: 135px;
+    }
+
+    .foot-1-card-con {
+        width: 80vw;
+        margin-inline: auto;
+        /* overflow: hidden; */
+        /* scroll-behavior: smooth; */
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .foot-1-card-con,
+    .foot-4 .con-1 {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .foot-2 .container .boxes {
+        grid-template-columns: auto auto;
+    }
+
+    .about {
+        width: 190px;
+    }
+
+    .banner {
+        justify-content: flex-start;
+        overflow: scroll;
+        width: 90vw;
+    }
+
+    .banner .img-text {
+        width: 200px;
+        justify-content: flex-start;
+        flex-shrink: 0;
+    }
+
+    .banner .img-text img {
+        width: 30px;
+        padding-block: 5px;
+    }
+
+    .img-text p {
+        font-size: 10px;
+    }
+}
+
+
+
+@media screen and (max-width:900px) {
+    #right-div {
+        height: 395px;
+    }
+
+    #right-div ul li img {
+        height: 300px;
+    }
+
+    #right-div,
+    #right-div ul li img {
+        width: 450px;
+    }
+
+    .foot-info {
+        flex-wrap: wrap;
+        height: 95px;
+        bottom: 60px;
+    }
+
+    .right-div-1,
+    .div-right-con-img {
+        width: 440px;
+    }
+
+    #right-div #prev,
+    #right-div #next {
+        transform: translateY(-70px);
+
+    }
+
+}
+
+@media screen and (max-width:767px) {
+
+    main .s1,
+    .s2 .con {
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .left-div-1 {
+        min-width: 220px;
+        box-shadow: none;
+    }
+
+    .left-con {
+        flex-direction: row;
+        justify-content: center;
+        gap: 0px;
+        background-color: white;
+    }
+
+
+    .deal {
+        width: 440px;
+    }
+
+    #right-div,
+    #right-div ul li img {
+        width: 440px;
+    }
+
+    #left-1 a {
+        opacity: 0;
+        cursor: default;
+    }
+
+    #left-2 h3 {
+        opacity: 0;
+    }
+
+    .nav-right .div {
+        display: none;
+    }
+
+    .foot-1-top pre {
+        flex-direction: column;
+    }
+
+    .foot-1-top pre p,
+    .foot-1-top pre span {
+        font-size: 28px;
+        font-weight: 550;
+    }
+
+    .link-top,
+    .link-top i {
+        font-size: 14px;
+        padding: 7px 9px;
+    }
+
+    .link-top-desc {
+        padding: 7px 8px;
+    }
+
+    .link-top-desc p {
+        font-size: 12px;
+        padding-left: 5px;
+    }
+
+    .link-top-desc h2 {
+        font-size: 14px;
+    }
+
+    .copy .con-2 .social-media,
+    .copy .con-2 .payment {
+        display: none;
+    }
+
+    .con-2 {
+        justify-content: center;
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width:490px) {
+    .foot-2 .container .boxes {
+        grid-template-columns: auto;
+        width: 230px;
+    }
+}
+
+@media screen and (max-width:450px) {
+    .left-div-1 {
+        min-width: 160px;
+    }
+
+    .deal {
+        width: 320px;
+        cursor: pointer;
+    }
+
+    .deal .line,
+    .deal .head {
+        display: none;
+    }
+
+    #right-div,
+    #right-div ul li img {
+        width: 320px;
+    }
+
+    #right-div {
+        height: 270px;
+    }
+
+    #right-div ul li img {
+        height: 220px;
+    }
+
+    #right-div #prev,
+    #right-div #next {
+        line-height: 25px;
+        width: 25px;
+        font-size: 14px;
+        transform: translateY(-30px);
+
+    }
+
+    .right-div-1,
+    .div-right-con-img {
+        width: 320px;
+    }
+
+    .foot-info {
+        /* flex-wrap: nowrap; */
+        height: 80px;
+        bottom: 140px;
+        align-items: flex-start;
+    }
+
+    .foot-info .col-1 {
+        width: 160px;
+    }
+
+    .foot-info h2 {
+        font-size: 4px;
+    }
+
+    .foot-info p {
+        font-size: 2px;
+    }
+
+    .books-scroll-1 {
+        width: 200px;
+        margin-inline: auto;
+    }
+    .books-scroll-2 {
+        width: 94.5%;
+        margin-inline: auto;
+        gap: 0px;
+    }
+
+    /*  */
+
+    #left-1 a {
+        display: none;
+    }
+
+    #left-2 h3 {
+        display: none;
+    }
+
+    #left-2 {
+        flex-direction: row-reverse;
+    }
+
+    .left-div-1 .d1 h3{
+        font-size: 12px;
+    }
+    .left-div-1 .d1 a{
+        font-size: 10px;
+    }
+    
+    .left-div-1 .d1{
+        height: 30px;
+    }
+
+
+    .books h3,
+    .books-scroll-1 .books h3 {
+        font-size: 13px;
+    }
+
+    .books span h2,
+    .books-scroll-1 .books span h2,
+    .link-top,
+    .card .card-head h4 {
+        font-size: 15px;
+    }
+
+    .books span h4,
+    .books-scroll-1 .books span h4 {
+        font-size: 13px;
+    }
+
+    .books span h5,
+    .books-scroll-1 .books span h5,
+    .nav-top .download-app .text h2,
+    .nav-left .text span {
+        font-size: 13px;
+    }
+
+    .foot-1-top pre p {
+        font-size: 24px;
+    }
+
+    .about span,
+    .nav-left-1 .text,
+    .img-text p,
+    .nav-left .text h5,
+    .foot-info .col-1 p {
+        font-size: 11px;
+    }
+
+    .card .card-desc,
+    .nav-top .download-app .text p,
+    .nav-top .desc-cancel,
+    .nav-top-2 .cont .nav-right,
+    .categories a,
+    .box-hover a,
+    .cat .conn .col h3,
+    .nav-updates a,
+    .foot-info .col-1 h2 {
+        font-size: 12px;
+    }
+
+    .site-desc,
+    .about ul li a,
+    .address,
+    .con-2 .copyright span {
+        font-size: 11px;
+    }
+
+}
