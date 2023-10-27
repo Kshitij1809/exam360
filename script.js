@@ -2,6 +2,22 @@ document.querySelector("#cancel").addEventListener("click", () => {
     // document.getElementById("nav-top").style.backgroundColor = "violet";
     document.getElementById("nav-top").style.display = "none";
 })
+document.querySelector("#head-1").addEventListener("click", () => {
+    // document.getElementById("nav-top").style.backgroundColor = "violet";
+    if(document.querySelectorAll(".head").style.display == "none"){
+        document.querySelectorAll(".head").style.display = "block"
+    }
+    else{
+        document.querySelectorAll(".head").style.display = "none"
+    }
+    if(document.querySelectorAll(".line").style.display == "none"){
+        document.querySelectorAll(".line").style.display = "block";
+    }
+    else{
+        document.querySelectorAll(".line").style.display = "none";
+    }
+        
+})
 
 
 // scroll
