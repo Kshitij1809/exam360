@@ -292,6 +292,10 @@
 
 @media screen and (max-width:767px) {
 
+    #col-1-hide{
+        display:none;
+    }
+
     main .s1,
     .s2 .con {
         align-items: center;
